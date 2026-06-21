@@ -235,23 +235,3 @@ Or connect the GitHub repo in the Vercel dashboard. `vercel.json` handles SPA re
 Deploy `supabase/functions/server/` as the `make-server-55a1a311` edge function via Supabase CLI or dashboard.
 
 ---
-
-## What's Next
-
-- [ ] Verified Resend sending domain (email to any address)
-- [ ] Production weekly unlock (one week per seven days)
-- [ ] User testing with post-decision cohorts (career, relationship, relocation)
-
----
-
-## License & Attributions
-
-See [ATTRIBUTIONS.md](./ATTRIBUTIONS.md) for third-party credits.
-
----
-
-## Built for
-
-USAII Global AI Hackathon 2026 · Productivity track · Life Decision Simulator
-
-**Team:** [let-the-dreamers-rise](https://github.com/let-the-dreamers-rise)
